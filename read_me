@@ -1,0 +1,5 @@
+#### Read me file for Johnson and Wing, 2019. ######
+
+This zipped folder contains all necessary python scripts and csv data files 
+to reproduce the analysis and figures from the manuscript. Run the "johnson_and_wing_driver.py" using Python 3. We used the Spyder interface. All 
+supporting files should be contained in this folder, and will produce all figures from the manuscrupt. Please contact the corresponding author (bwj@iastate.edu) for any updates or troubleshooting! 
